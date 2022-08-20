@@ -24,7 +24,7 @@ export const Card = () => {
           A floral, solar and voluptuous interpretation composed by Olivier
           Polge, Perfumer-Creator for the House of CHANEL
         </p>
-        <strong className="text-cyan font-serif text-3xl align-middle inline">
+        <strong className="text-cyan font-serif text-3xl align-middle block xs:inline">
           $149.99
         </strong>
         <p className="text-dark-grayish-blue line-through align-middle inline text-xs ml-5">
