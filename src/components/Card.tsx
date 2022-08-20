@@ -21,7 +21,7 @@ export const Card = () => {
           Gabrielle Essence Eau De Parfum
         </h1>
         <p className="text-dark-grayish-blue text-sm font-medium leading-6 my-5">
-          A floral, solar and voluptuous interpretatiion composed by Olivier
+          A floral, solar and voluptuous interpretation composed by Olivier
           Polge, Perfumer-Creator for the House of CHANEL
         </p>
         <strong className="text-cyan font-serif text-3xl align-middle inline">
